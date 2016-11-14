@@ -1,0 +1,95 @@
+{ ? 
+   "features":[ ? 
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.37728131493866,
+               36.802114572803916
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.1562335810872,
+               36.54564984268738
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.94115248930484,
+               36.39629384018358
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.04282673059087,
+               36.29820401917465
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.26740312249606,
+               36.935212445341435
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.73392375085352,
+               36.34374382232314
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.02103565054203,
+               36.541147102394426
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.42925493641172,
+               36.25376089393608
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.36064897907127,
+               36.535518803408145
+            ],
+            "type":"Point"
+         }
+      },
+      { ? 
+         "geometry":{ ? 
+            "coordinates":[ ? 
+               -105.97413741001247,
+               36.811556837112235
+            ],
+            "type":"Point"
+         }
+      }
+   ],
+   "type":"featureCollection"
+}
